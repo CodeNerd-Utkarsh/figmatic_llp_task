@@ -1,0 +1,61 @@
+.videoGallery {
+    /* border: 1px solid violet; */
+    min-height: 100vh;
+    flex: .8;
+    background-color: gainsboro;
+}
+
+.heading {
+    width: 30%;
+    float: right;
+}
+
+.videoGallery__header {
+    display: flex;
+    height: 10vh;
+    align-items: center;
+    width: 100%;
+    justify-content: space-between;
+    background-color: #fff
+        /* border: 1px solid red; */
+}
+
+.videoGallery__headerRight {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    /* border: 1px solid red; */
+    flex: .7;
+    gap: 20px;
+    margin-right: 1rem;
+}
+
+.container {
+
+    margin-left: 5%;
+    gap: 2%;
+    height: 90vh;
+    overflow-y: scroll;
+}
+
+.category {
+    margin: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.types {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 15px;
+
+}
+
+.videoGallery__cards {
+    display: grid;
+    padding: 18px 22px 18px 22px;
+    gap: 22px;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+}
