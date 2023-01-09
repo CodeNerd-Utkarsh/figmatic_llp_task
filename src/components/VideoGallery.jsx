@@ -55,8 +55,13 @@ function VideoGallery() {
                                 Upload Date:- dd/mm/yyyy
                             </Typography>
                             <Typography variant="body2" color="text.secondary">
-                                Video:- 03
+                                Video:- XX
                             </Typography>
+                            <Typography variant="body2" color="text.secondary">
+                                Duration:- XX minutes
+                            </Typography>
+                            <div className='tags'>Tag01</div>
+                            <div className='tags'>Tag02</div>
 
                         </CardContent>
                     </Card>
@@ -74,8 +79,12 @@ function VideoGallery() {
                                 Upload Date:- dd/mm/yyyy
                             </Typography>
                             <Typography variant="body2" color="text.secondary">
-                                Video:- 03
+                                Video:- XX
                             </Typography>
+                            <Typography variant="body2" color="text.secondary">
+                                Duration:- XX minutes
+                            </Typography>
+                            <div className='tags'>Tag01</div>
 
                         </CardContent>
                     </Card>
@@ -93,8 +102,13 @@ function VideoGallery() {
                                 Upload Date:- dd/mm/yyyy
                             </Typography>
                             <Typography variant="body2" color="text.secondary">
-                                Video:- 03
+                                Video:- XX
                             </Typography>
+                            <Typography variant="body2" color="text.secondary">
+                                Duration:- XX minutes
+                            </Typography>
+                            <div className='tags'>Tag01</div>
+                            <div className='tags'>Tag02</div>
 
                         </CardContent>
                     </Card>
@@ -112,8 +126,12 @@ function VideoGallery() {
                                 Upload Date:- dd/mm/yyyy
                             </Typography>
                             <Typography variant="body2" color="text.secondary">
-                                Video:- 03
+                                Video:- XX
                             </Typography>
+                            <Typography variant="body2" color="text.secondary">
+                                Duration:- XX minutes
+                            </Typography>
+                            <div className='tags'>Tag01</div>
 
                         </CardContent>
                     </Card>
@@ -131,8 +149,14 @@ function VideoGallery() {
                                 Upload Date:- dd/mm/yyyy
                             </Typography>
                             <Typography variant="body2" color="text.secondary">
-                                Video:- 03
+                                Video:- XX
                             </Typography>
+                            <Typography variant="body2" color="text.secondary">
+                                Duration:- XX minutes
+                            </Typography>
+                            <div className='tags'>Tag01</div>
+                            <div className='tags'>Tag02</div>
+                            <div className='tags'>Tag03</div>
 
                         </CardContent>
                     </Card>
